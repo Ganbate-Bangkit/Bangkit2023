@@ -1,4 +1,5 @@
 const express = require('express') //import dari library Express
+const cors = require('cors')
 const app = express() //inisiasi framework
 const port = ... //port dimana server berjalan
 
